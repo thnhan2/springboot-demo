@@ -1,2 +1,8 @@
 com\example\demo\DemoApplication.class
+com\example\demo\service\FileSystemStorageService.class
+com\example\demo\controller\FileUploadController.class
+com\example\demo\service\StorageService.class
+com\example\demo\service\StorageException.class
+com\example\demo\service\StorageProperties.class
 com\example\demo\controller\Demo.class
+com\example\demo\service\StorageFileNotFoundException.class
